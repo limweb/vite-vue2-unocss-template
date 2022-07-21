@@ -14,7 +14,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@unocss/preset-attributify": "^0.44.5",
     "vite": "^2.6.13",
     "vite-plugin-components": "^0.13.2",
     "vite-plugin-vue2": "^2.0.2",
@@ -23,6 +22,8 @@
     "vuex": "^3.6.2"
   },
   "devDependencies": {
+    "unocss": "^0.44.5",
+    "@unocss/preset-attributify": "^0.44.5",
     "@iconify-json/bi": "^1.1.6",
     "@iconify/json": "^2.1.80",
     "@unocss/preset-icons": "^0.44.5",
@@ -30,7 +31,6 @@
     "@unocss/preset-typography": "^0.44.5",
     "@unocss/preset-uno": "^0.44.5",
     "@unocss/preset-wind": "^0.44.5",
-    "unocss": "^0.44.5",
     "vue-template-compiler": "^2.7.7"
   }
 }
